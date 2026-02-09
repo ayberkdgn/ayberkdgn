@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Medical Imaging Analysis using Deep Learning (OCT & Fundus images)**
 
-- 🌱 I’m currently learning **Python, ML/Deep Learning and React Native for mobile AI apps**
+- 🌱 I’m currently learning **Python, ML/Deep Learning, LLM Agent workflows and React Native for mobile AI apps**
 
 - 📫 How to reach me **ayberk.03dogan@gmail.com**
 
